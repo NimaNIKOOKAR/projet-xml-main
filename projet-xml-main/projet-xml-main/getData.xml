@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<App>
+   <Categories>
+      <Categorie id="C1">
+         <Nom>Entrées</Nom>
+         <Description>
+			
+				Toutes nos recettes d'entrées : Cakes salés, Entrées chaudes, Entrées froides, Quiches et Tartes, Salades, Sandwichs, Soupes et veloutés, Terrines, Verrines salées.
+
+			
+		</Description>
+         <Sous-categories>
+            <Sous-categorie id="SC1">
+               <Nom>Cakes</Nom>
+               <Description>
+			
+				   Catégorie Cakes : Ôdélices vous propose ses meilleures recettes testées et photographiées
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r2830">
+                     <Titre>Cake à la tomate farcie</Titre>
+                     <Auteur>
+                        <Nom>Nadège</Nom>
+                        <id>AUT3</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Cakes</Nom>
+                        <id>SC1</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>6</nbre_personnes>
+                     <Preparation>
+                        <p>1. Inciser le fond de chaque tomate et vider les graines à l'aide d'une toute petite cuillère (j'ai fait avec le manche d'une cuillère à moka).
+Saler l'intérieur de chaque tomate et déposer sur un papier absorbant, elles vont dégorger.
+<br/>
+2. Beurrer et fariner 6 ramequins. Préchauffer le four à 180°C.<br/>
+3. Faire tiédir le lait 20-30 secondes au micro-onde. Battre l'oeuf en omelette, saler et poivrer puis ajouter la farine, la levure, le lait et l'huile. 
+ Ajouter le fromage râpé.<br/>
+4. Dans un bol mélanger la fêta et le thon égoutté à l'aide d'une fourchette et farcir les tomates avec cette préparation.
+<br/>
+5. Remplir les moules avec la pâte et déposer une tomate dans chaque en l'enfonçant au deux tiers du moule.
+<br/>
+6. Cuire entre 20 et 25 minutes.</p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>Cake à la tomate farcie - Recettes de cuisine Ôdélices</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/cake-a-la-tomate-farcie.jpg</Photo>
+                     <Date>2011-04-24</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>100g</Quantite>
+                           <id>F120</id>
+                           <Nom>farine</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à café rase</Quantite>
+                           <id>L300</id>
+                           <Nom>levure chimique</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>7,5 cl</Quantite>
+                           <id>L50</id>
+                           <Nom>lait</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à soupe</Quantite>
+                           <id>H20</id>
+                           <Nom>huile d'olive</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 petite boite </Quantite>
+                           <id>t142</id>
+                           <Nom>Thon</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>30 g</Quantite>
+                           <id>F10</id>
+                           <Nom>fromage de brebis</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>6 grappes</Quantite>
+                           <id>t120</id>
+                           <Nom>Tomate</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r3136">
+                     <Titre>Petits cakes au chèvre frais et myrtilles</Titre>
+                     <Auteur>
+                        <Nom>Vanessa</Nom>
+                        <id>AUT2</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Cakes</Nom>
+                        <id>SC1</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>6</nbre_personnes>
+                     <Preparation>
+                        <p>1. Dans un saladier, mélangez la farine, le sel, le bicarbonate, les oeufs, le lait et l'huile.<br/>
+2. Quand la pâte est belle, versez-la dans de petits moules à cake huilés.<br/>
+3. Répartissez sur les cakes de petits morceaux de fromage et les myrtilles.<br/>
+4. Faites cuire 17 minutes à 180°C four ventilé. Piquez un cake à l'aide de la pointe d'un couteau afin de vérifier la cuisson.<br/>
+5. Servez à température ambiante avec une salade croquante.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t> Petits cakes au chèvre frais et myrtilles - les meilleures recettes de cuisine d'Ôdélices</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/petits-cakes-au-chevre-frais-et-myrtilles.jpg</Photo>
+                     <Date>2012-04-09</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>250 g</Quantite>
+                           <id>F120</id>
+                           <Nom>farine</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>15cl</Quantite>
+                           <id>L50</id>
+                           <Nom>lait</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>5cl</Quantite>
+                           <id>H20</id>
+                           <Nom>huile d'olive</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>FC20</id>
+                           <Nom>fromage de chèvre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1/4 cuillerée à café</Quantite>
+                           <id>B200</id>
+                           <Nom>bicarbonate de sodium</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>100 g</Quantite>
+                           <id>M110</id>
+                           <Nom>myrtilles</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC2">
+               <Nom>entrées-chaudes</Nom>
+               <Description>
+			
+				   Catégorie Entrées chaudes : Ôdélices vous propose ses meilleures recettes testées et photographiées
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r4275">
+                     <Titre>Mozzarella panée</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>entrées-chaudes</Nom>
+                        <id>SC2</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>1. Coupez les boules de mozzarella en rondelles.<br/>
+2. Mettez la farine et la chapelure dans deux assiettes. Et battez l'oeuf avec une fourchette dans un bol.<br/>
+3. Faites chauffer une poêle avec de l'huile.<br/>
+4. Faites tremper les rondelles de mozzarella dans la farine, puis dans l'oeuf et enfin dans la chapelure.<br/>
+5. Faites frire dans la poêle quelques minutes de chaque côté. Servez avec une salade verte.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>Pour un soir de semaine, si vous voulez faire une salade express mais épatante, faites de la mozzarella panée ! C'est rapide, facile et très syma !
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/mozzarella_panee.jpg</Photo>
+                     <Date>2015-02-08</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>B10</id>
+                           <Nom>boules de mozzarella de bufflone</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4 cuillerées à soupe</Quantite>
+                           <id>F120</id>
+                           <Nom>farine</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 petit bol</Quantite>
+                           <id>CH12</id>
+                           <Nom>chapelure</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r3289">
+                     <Titre>Oeuf cocotte aux marrons</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>entrées-chaudes</Nom>
+                        <id>SC2</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>1. Hachez grossièrement les marrons cuits. Répartissez-les dans 4 ramequins inviduels.<br/>
+2. Répartissez une cuillère de crème sur les marrons.<br/>
+3. Puis cassez les oeufs et ajoutez-en un dans chaque ramequin, en les posant délicatement pour ne pas casser le jaune. Salez et poivrez.<br/>
+4. Placez les ramequins dans le four préchauffé à 180°C, au bain-marie. Faites cuire 15 min jusqu'à ce que le blanc soit bien pris.<br/>
+5. Servez chaud, avec des mouillettes de pain grillé.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume/>
+                     <Photo>http://www.odelices.com/images/recettes/oeuf_cocotte_aux_marrons.jpg</Photo>
+                     <Date>2012-11-22</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>200 g</Quantite>
+                           <id>M9</id>
+                           <Nom>marrons</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4 cuillerées à soupe</Quantite>
+                           <id>C50</id>
+                           <Nom>crème</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC3">
+               <Nom>Entrées-froides</Nom>
+               <Description>
+			
+				   Catégorie Entrées-froides : Ôdélices vous propose ses meilleures recettes testées et photographiées
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r4315">
+                     <Titre>Endives farcies au thon</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Entrées-froides</Nom>
+                        <id>SC3</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>1. Lavez les tomates, coupez-les en deux et épépinez-les. Emincez finement la ciboulette.<br/>
+2. Mettez dans le bol du robot le thon, les tomates, les cornichons, la crème fraîche, la moutarde et la ciboulette. Mixez le tout grossièrement pour garder quelques morceaux. Salez légèrement et poivrez éventuellement.<br/>
+3. Passez les endives sous l'eau rapidement et enlevez le cône amer à la base des feuilles. Détachez les feuilles une par une, séchez-les bien.<br/>
+4. Répartissez la farce dans les feuilles et servez bien frais.</p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>
+
+Une salade « hébergée » dans une feuille d'endive ! Une idée gourmande qui ravira les plus jeunes qui pourront d'ailleurs vous aider à farcir les endives !</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/endives_farcies_au_thon1.jpg</Photo>
+                     <Date>2015-03-12</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>e300</id>
+                           <Nom>Endive</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>t120</id>
+                           <Nom>Tomate</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>6</Quantite>
+                           <id>Co30</id>
+                           <Nom>cornichons</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2 cuillerées à soupe</Quantite>
+                           <id>C50</id>
+                           <Nom>crème</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2 cuillerées à soupe</Quantite>
+                           <id>M80</id>
+                           <Nom>moutarde</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>50 g</Quantite>
+                           <id>CI10</id>
+                           <Nom>ciboulette</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>10 brins</Quantite>
+                           <id>t142</id>
+                           <Nom>Thon</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC4">
+               <Nom>Pizzas</Nom>
+               <Description>
+			
+				     Catégorie Pizzas : Ôdélices vous propose ses meilleures recettes testées et photographiées
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+         </Sous-categories>
+      </Categorie>
+      <Categorie id="C2">
+         <Nom>Recettes classiques</Nom>
+         <Description>
+			
+				Des recettes classiques pour avoir tous les incontournables de la cuisine.
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C3">
+         <Nom>Boissons</Nom>
+         <Description>
+			
+				Surprenez vos convives avec notre sélection de cocktails originaux. Sans oublier les milk-shakes, smoothies et jus de fruits à servir aux enfants ou aux plus grands selon l'heure de la journée. Des boissons chaudes type chocolat chaud pour l'hiver, des thés glacés pour vous rafraichir pendant l'été. Et pour les amateurs, découvrez nos vins et apéritifs maison.
+
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C4">
+         <Nom>apéritifs</Nom>
+         <Description>
+			
+				Pour changer des apéritifs où l'on sert des cacahuètes et des chips je vous propose de confectionner de délicieuses bouchées salées, des feuilletés, des tapas Certes cela prend un peu plus de temps et demande un peu d'organisation mais le résultat est incomparable et vos invités seront certainement conquis. Alors trouvez votre bonheur, et celui de vos hôtes, dans notre sélection de recettes apéritives. Il y en a pour tous les goûts : recettes légères, rapides, exotiques, originales, traditionnelles
+
+
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C5">
+         <Nom>viandes</Nom>
+         <Description>
+			
+				 Toutes nos recettes de viande 
+
+
+			
+		</Description>
+         <Sous-categories>
+            <Sous-categorie id="SC5">
+               <Nom>Agneau</Nom>
+               <Description>
+			
+				     Catégorie Agneau : Ôdélices vous propose ses meilleures recettes testées et photographiées
+
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r2101">
+                     <Titre>Gigot d'agneau au cumin</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Agneau</Nom>
+                        <id>SC5</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>
+			1. Salez et poivrez le gigot d'agneau. Recouvrez-le de graines de cumin et déposez-le dans un plat allant au four.<br/>
+2. Répartissez des noisettes de beurre sur le dessus de la viande et versez un fond d'eau dans le plat (environ 2 cm d'eau).<br/>
+3. Faites cuire 45 min dans le four préchauffé à 180°C.<br/>
+4. Servez avec une salade de pousses d' épinards ou de cresson.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>	
+
+Pour la cuisson d'un gigot d'agneau, comptez environ 15 min par livre. Il sera rosé à coeur.
+
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/gigot-d-agneau-au-cumin.jpg</Photo>
+                     <Date>2009-02-09</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>1,5 kg</Quantite>
+                           <id>a117</id>
+                           <Nom>Agneau</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>20 g</Quantite>
+                           <id>BEU1</id>
+                           <Nom>beurre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r497">
+                     <Titre>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Titre>
+                     <Auteur>
+                        <Nom>Clochette</Nom>
+                        <id>AUT5</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Agneau</Nom>
+                        <id>SC5</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>6</nbre_personnes>
+                     <Preparation>
+                        <p>
+	1. Préchauffez votre four à 180°C.
+2. Nettoyez bien le gigot d'agneau, enlevez un peu de gras et salez-le. Mélangez la moutarde, le thym et l'huile et badigeonnez-en le gigot.<br/>
+3. Placez le gigot dans un plat allant au four et enfournez 40 à 50 min.<br/>
+Pour une viande saignante, on compte 12 min de cuisson par livre (par 500 g), soit 43 min pour 1,8 kg.<br/>
+Pour une viande à point, on compte 15 min de cuisson par livre, soit 54 min pour 1,8 kg.<br/>
+Tout au long de la cuisson, retournez le gigot toutes les 10 min environ et arrosez-le avec le jus qui s'écoule au fond du plat.<br/>
+4. Pour la sauce : à la fin de la cuisson, déglacez le plat en versant le vin blanc. Décollez les sucs au fond du plat et remettez au four 5 min, le temps de découper la viande et de servir.<br/>
+5. Pour l'ail confit : ajoutez quelques gousses d'ail au fond du plat, non épluchées.<br/>
+
+Servez avec des fagots de haricots verts entourés de tranches de lard et des pommes de terre sautées
+
+<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>	
+
+Pour le repas de Pâques, j'aime beaucoup le traditionnel gigot d'agneau. C'est l'ami de ma soeur, qui a fait cette recette pour nous cette année. Le gigot était vraiment très parfumé et bien moelleux.
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/gigot-d-agneau-a-la-moutarde-et-au-thym-gousses-d-ail-confites.jpg</Photo>
+                     <Date>2004-01-10</Date>
+                     <Difficulte>Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>1,8 kg</Quantite>
+                           <id>a117</id>
+                           <Nom>Agneau</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>3 cuillères à soupe</Quantite>
+                           <id>M80</id>
+                           <Nom>moutarde</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à soupe </Quantite>
+                           <id>H20</id>
+                           <Nom>huile d'olive</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC6">
+               <Nom>Boeuf</Nom>
+               <Description>
+			
+				     Catégorie Boeuf : Ôdélices vous propose ses meilleures recettes testées et photographiées
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC7">
+               <Nom>Canard</Nom>
+               <Description>
+			
+				     Catégorie Canard : Ôdélices vous propose ses meilleures recettes testées et photographiées
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC8">
+               <Nom>Lapin</Nom>
+               <Description>
+			
+				     Catégorie Lapin : Ôdélices vous propose ses meilleures recettes testées et photographiées
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+         </Sous-categories>
+      </Categorie>
+      <Categorie id="C6">
+         <Nom>poissons et crustacés</Nom>
+         <Description>
+			
+				  Toutes nos recettes de poissons 
+			
+		</Description>
+         <Sous-categories>
+            <Sous-categorie id="SC9">
+               <Nom>Rouget</Nom>
+               <Description>
+			
+				    	Peut-être adorez-vous les petits filets de rougets autant que moi ? Ce petit poisson a la peau rouge est toujours du plus bel effet sur une table. Découvrez nos recettes !			
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC10">
+               <Nom>Cabillaud</Nom>
+               <Description>
+			
+				    Saviez-vous que le cabillaud et la morue ne font qu'un ou presque ? Le cabillaud devient de la morue une fois qu'il a été salé et séché.Ce poisson vit dans les mers froides. Sa chair blanche, tendre et délicate ne supporte pas des temps de cuisson trop élevés. 
+Comment aimez-vous le cabillaud ? Poché, en papillotes, au curry, en tajine, tartare, en flan, en terrine ou encore en croquettes ou gratin ? 
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC11">
+               <Nom>Saumon</Nom>
+               <Description>
+			
+				    Le saumon a une vie mouvementée : il naît en eau douce, puis se rend instinctivement dans la mer avant de retourner pondre et souvent mourir dans le fleuve de sa naissance. La majorité des saumons qui est commercialisée, provient d'élevages intensifs et industrialisés. Je ne saurais vous recommander que d'acheter du saumon bio ou labellisé. Le saumon est un poisson prisé et souvent apprécié par tous, petits et grands. Il existe de très nombreuses manières de le cuire et de l'accommoder. Vous en connaissez certainement mais êtes-vous prêts à tenter de nouvelles expériences culinaires ? Saumon burger, saumon mariné, crumble de saumon, parmentier de saumon, tartare de saumon, maki, saumon laqué, en gratin.
+
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r1611">
+                     <Titre>Saumon teriyaki</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Saumon</Nom>
+                        <id>SC11</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>
+	1. . Retirez les arêtes des pavés de saumon.<br/>
+2. Mélangez l'ensemble des ingrédients et faites-y mariner le saumon 30 min.<br/>
+3. Placez les pavés de saumon dans un plat à gratin. Arrosez-les de marinade.<br/>
+4. Faites cuire environ 15 min dans le four préchauffé à 180°C.<br/>
+5. Servez chaud, avec du riz.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>
+
+Mon chéri adore la sauce teriyaki pour accompagner le saumon. Légèrement sucrée et un peu épaisse, elle rehausse le goût du poisson à merveille.
+
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/saumon-teriyaki.jpg</Photo>
+                     <Date>2007-07-20</Date>
+                     <Difficulte>Très Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>4 pavés</Quantite>
+                           <id>s36</id>
+                           <Nom>saumon</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4 cuillères à soupe</Quantite>
+                           <id>SO7</id>
+                           <Nom>sauce soja</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>4 cuillères à soupe</Quantite>
+                           <id>V10</id>
+                           <Nom>vin blanc</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>12 cuillères à soupe </Quantite>
+                           <id>VI2</id>
+                           <Nom>vinaigre blanc</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à café</Quantite>
+                           <id>G63</id>
+                           <Nom>gingembre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à café</Quantite>
+                           <id>SU2</id>
+                           <Nom>sucre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r1915">
+                     <Titre>Pavé de saumon aux girolles</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Saumon</Nom>
+                        <id>SC11</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>2</nbre_personnes>
+                     <Preparation>
+                        <p>
+	1. Pelez et coupez l'échalote en très fines tranches.<br/>
+2. Faites-la revenir dans une sauteuse avec un peu d' huile à feu moyen durant quelques minutes.<br/>
+3. Ajoutez les girolles, coupées en morceaux si elles sont trop grosses. Faites revenir 5 min à feu vif pour faire légèrement dorer.<br/>
+4. Poussez les girolles sur le côté, ajoutez le saumon. Faites dorer 2 min une face puis retournez le pavé de saumon très délicatement.<br/>
+5. Déglacez avec le vin blanc. Laissez réduire 3 min.<br/>
+6. Ajoutez la crème et terminez la cuisson durant 5 min à feu vif. Salez et poivrez à votre goût.<br/>
+7. Servez le pavé de saumon aux girolles avec des tagliatelles fraîches.<br/>
+				                       <br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>
+
+Profitez d' une balade dans les bois pour ramasser quelques girolles et les cuisiner à la crème avec un beau pavé de saumon.
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/paves_de_saumon_aux_girolles.jpg</Photo>
+                     <Date>2008-06-24</Date>
+                     <Difficulte>Très Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>350 g</Quantite>
+                           <id>s36</id>
+                           <Nom>saumon</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>150 g</Quantite>
+                           <id>G15</id>
+                           <Nom>girolles</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>8 cl</Quantite>
+                           <id>C50</id>
+                           <Nom>crème</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>3 cl </Quantite>
+                           <id>V10</id>
+                           <Nom>vin blanc</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 cuillère à café</Quantite>
+                           <id>G63</id>
+                           <Nom>gingembre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>une</Quantite>
+                           <id>ech12</id>
+                           <Nom>Echalotte</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>Po40</id>
+                           <Nom>poivre</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC12">
+               <Nom>Crevettes</Nom>
+               <Description>
+			
+				    La crevette a une excellente valeur nutritive. Source de protéines, peu grasse, elle est riche en minéraux et vitamines. Ce délicieux crustacé est une très bonne source de phosphore. Vous trouverez des recettes très simples et d'autres plus élaborées, des recettes traditionnelles (flambées, en brochettes) et d'autres plus exotiques et dépaysantes (maki, sushi, curry).Vous n'avez désormais plus d'excuses pour ne pas cuisiner des crevettes, des gambas ou des langoustines.
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC16">
+               <Nom>Coquillages</Nom>
+               <Description>
+			
+				    Noix de Saint Jacques, moules, huitres, pétoncles Sentez-vous l'air marin et iodé entrer dans votre cuisine ? Beaucoup ne cuisinent pas les coquillages par méconnaissance et crainte de ne pas savoir s'y prendre. Lancez-vous, vous verrez que ce n'est guère compliqué et que le résultat est souvent bluffant.
+
+
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r1241">
+                     <Titre>Moules et frites</Titre>
+                     <Auteur>
+                        <Nom>Karine Descamps</Nom>
+                        <id>AUT4</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Coquillages</Nom>
+                        <id>SC16</id>
+                     </Sous-categorie>
+                     <Note/>
+                     <nbre_personnes>4</nbre_personnes>
+                     <Preparation>
+                        <p>
+				                       <strong>Pour les moules</strong>
+			                     </p>
+                        <p>1. Grattez les moules et rincez-les soigneusement.<br/>
+2. Pelez et émincez les échalotes et les oignons. Faites-les revenir sans coloration dans une grande sauteuse ou une cocotte avec le beurre 2 à 3 minutes à feu vif.<br/>
+3. Ajoutez les moules, le bouquet garni et le céleri. Mouillez avec le vin blanc.<br/>
+4. Couvrez et laissez cuire à feu vif jusqu' à ce que les moules s'ouvrent complètement (5 minutes environ)..<br/>
+5. Versez les moules et leur jus dans un plat creux. Servez avec les frites et une bière blonde.</p>
+                        <p>
+				                       <strong>Pour les frites : </strong>
+1. Épluchez les pommes de terre et coupez-les en larges bâtonnets. Lavez-les et essuyez-les soigneusement dans un torchon propre (pour retirer l'amidon).<br/>
+2. Faites chauffer l'huile de friture à 180°C.<br/>
+3. Plongez les frites et laissez-les cuire 10 à 15 minutes. Remontez-les à la surface et laissez-les s'égoutter quelques minutes.<br/>
+4. replongez les frites dans l'huile bien chaude quelques minutes : elles seront dorées, croustillantes à l'extérieur et moelleuses à l'intérieur. Servez-les aussitôt saupoudrées de sel.<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>	
+
+Si vous passez par le nord, prenez le temps de déguster des frites savoureuses dans une baraque à frites et n'oubliez pas de goûter à des moules de là-bas !
+Recettes extraites du livre Craquez pour la cuisine des chtis !
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/moules-frites.jpg</Photo>
+                     <Date>2006-06-01</Date>
+                     <Difficulte>Très facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>2 à 3 litres</Quantite>
+                           <id>MO7</id>
+                           <Nom>moules</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>oi16</id>
+                           <Nom>Oignon</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2</Quantite>
+                           <id>ech12</id>
+                           <Nom>Echalotte</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1</Quantite>
+                           <id>CE5</id>
+                           <Nom>céleri</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>20 g</Quantite>
+                           <id>BEU1</id>
+                           <Nom>beurre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 kg</Quantite>
+                           <id>pom06</id>
+                           <Nom>Pommes de terre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>H20</id>
+                           <Nom>huile d'olive</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite/>
+                           <id>S12</id>
+                           <Nom>sel</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+         </Sous-categories>
+      </Categorie>
+      <Categorie id="C7">
+         <Nom>Sauces, beurres et condiments</Nom>
+         <Description>
+			
+				  Toutes nos recettes de sauces  
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C8">
+         <Nom>Autres plats</Nom>
+         <Description>
+			
+				   Toutes nos recettes d'autres plats  
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C9">
+         <Nom>pains</Nom>
+         <Description>
+			
+				    Toutes nos recettes de pains  
+			
+		</Description>
+         <Sous-categories/>
+      </Categorie>
+      <Categorie id="C10">
+         <Nom>Desserts</Nom>
+         <Description>
+			
+				   Toutes nos recette de desserts : Biscuits, Cakes sucrés, Cupcakes et Muffins, Confitures et Gelées, Crèmes, Flans et Entremets, Crêpes, Beignets, Gaufres, Crumbles et Clafoutis, Douceurs, Fruits, Gâteaux, Gâteaux de fête, Glaces et Sorbets, Macarons, Tartes sucrées, Verrines sucrées.  
+			
+		</Description>
+         <Sous-categories>
+            <Sous-categorie id="SC13">
+               <Nom>Cakes sucrés</Nom>
+               <Description>
+			
+				    La difficulté dans un cake est de bien réussir la cuisson : le cake doit être bien moelleux à l'intérieur et croustillant à l'extérieur. Mercotte nous conseille de les cuire 1h à 160°C. découvrez ici des recettes de cakes sucrés classiques : aux fruits confits, au citron et graines de pavot, au chocolat, aux fruits rouges et des cakes plus originaux : marbré chocolat crème de marrons, aux carottes, au potimarron...élaborées, des recettes traditionnelles (flambées, en brochettes) et d'autres plus exotiques et dépaysantes (maki, sushi, curry).Vous n'avez désormais plus d'excuses pour ne pas cuisiner des crevettes, des gambas ou des langoustines.
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+            <Sous-categorie id="SC14">
+               <Nom>Gateaux</Nom>
+               <Description>
+			
+				    A la fin d'un repas, pour le goûter, pour un pique-nique, pour apporter à une fête, toutes les occasions sont bonnes pour confectionner un gâteau. Les pâtisseries "maison" sont tellement bonnes et inégalables. Du plus simple au plus sophistiqué, du plus traditionnel au plus original, de nos régions et d'ailleurs, du plus "hype" au plus discret, du plus chocolaté au plus fruité, vous trouverez tout ou presque pour satisfaire vos envies de gâteaux.
+
+			
+		</Description>
+               <Recettes>
+                  <Recette id="r4385">
+                     <Titre>Moelleux au chocolat noir et à l'huile d'olive</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Gateaux</Nom>
+                        <id>SC14</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>6</nbre_personnes>
+                     <Preparation>
+                        <p>
+	1. Coupez le chocolat en carré et faites-le fondre au bain-marie (ou au micro-onde).<br/>
+2. Séparez les blancs des jaunes d'oeufs.<br/>
+3. Dans un saladier, mélangez les jaunes avec le sucre. Ajoutez la crème liquide et l' huile d'olive.<br/>
+4. Incorporez ensuite le cacao et la fécule préalablement tamisés.<br/>
+5. Puis ajoutez le chocolat fondu.<br/>
+6. Battez les blancs d' oeufs en neige. Incorporez-les délicatement à la pâte à gâteau, à l' aide d_une spatule, en soulevant la pâte du bas vers le haut.<br/>
+7. Versez la pâte dans des moules à muffins de préférence en silicone, et enfournez pour 15 min à 180°C.
+<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>
+
+Donnez une touche d'originalité à vos moelleux au chocolat en remplaçant le beurre par de l'huile d'olive. Et pour une version sans lactose, utilisez de la crème végétale.
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/moelleux_au_chocolat_noir.jpg</Photo>
+                     <Date>2015-04-17</Date>
+                     <Difficulte>Très Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>70 g</Quantite>
+                           <id>ch115</id>
+                           <Nom>Chocolat Noir</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2 gros</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>30 g</Quantite>
+                           <id>C50</id>
+                           <Nom>crème</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>25 g</Quantite>
+                           <id>CA9</id>
+                           <Nom>cacao</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>2 cuillerées à soupe</Quantite>
+                           <id>H20</id>
+                           <Nom>huile d'olive</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r957">
+                     <Titre>Moelleux au chocolat, coeur fondant aux framboises</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Gateaux</Nom>
+                        <id>SC14</id>
+                     </Sous-categorie>
+                     <Note>5</Note>
+                     <nbre_personnes>2</nbre_personnes>
+                     <Preparation>
+                        <p>
+1. Réunissez les framboises et le sucre dans une petite casserole. Faites chauffer doucement jusqu'à obtenir une compotée, remuez régulièrement. Si vous préférez, vous pouvez passer la compotée de framboises au tamis pour enlever les pépins.<br/>
+2. Cassez l' oeuf délicatement, séparez le blanc du jaune. Fouettez le jaune avec le sucre et la farine, puis lorsque la préparation est homogène, ajoutez le chocolat et le beurre fondus.<br/>
+3. Montez le blanc d' oeuf en neige avec une pincée de sel et ajoutez-le délicatement à la pâte.<br/>
+4. Répartissez les deux tiers de la préparation au fond de ramequins beurrés et farinés. Répartissez la compotée aux framboises au centre de chacun et couvrez avec le reste de la pâte.<br/>
+5. Faites cuire 10 min environ dans le four préchauffé à 180°C. Dégustez tièdes les moelleux, démoulés ou non.<br/>
+
+Astuce : la réalisation de la compotée de framboises permet d'éviter de trop sucrer vos moelleux et d'avoir un coeur réellement coulant. Si vous êtes pressés, remplacez par de la confiture, mais le résultat final sera bien plus sucré.
+
+<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume>
+                        <p>
+				                       <t>
+
+Pour le ou la faire craquer : un moelleux y a pas mieux !!! Pour être sûr de réussir votre coup, faites-les cuire dans de jolis ramequins et ne vous embêtez pas à les démouler. Dégustez-les à la cuillère, c' est aussi bon !
+</t>
+			                     </p>
+                     </Resume>
+                     <Photo>http://www.odelices.com/images/recettes/moelleux_au_chocolat_coeur_fondant_aux_framboises.jpg</Photo>
+                     <Date>2005-06-27</Date>
+                     <Difficulte>Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>40 g</Quantite>
+                           <id>ch115</id>
+                           <Nom>Chocolat Noir</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>25 g</Quantite>
+                           <id>BEU1</id>
+                           <Nom>beurre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>25 g</Quantite>
+                           <id>SU2</id>
+                           <Nom>sucre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>5 g</Quantite>
+                           <id>F120</id>
+                           <Nom>farine</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 </Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>60 g</Quantite>
+                           <id>fr12</id>
+                           <Nom>Framboise</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+                  <Recette id="r2678">
+                     <Titre>Moelleux au chocolat au coeur cerise</Titre>
+                     <Auteur>
+                        <Nom>Marie-Laure Tombini</Nom>
+                        <id>AUT1</id>
+                     </Auteur>
+                     <Sous-categorie>
+                        <Nom>Gateaux</Nom>
+                        <id>SC14</id>
+                     </Sous-categorie>
+                     <Note>4</Note>
+                     <nbre_personnes>2</nbre_personnes>
+                     <Preparation>
+                        <p>
+1. Lavez les cerises, dénoyautez-les.
+2. Coupez la chair grossièrement et faites-la compoter dans une casserole avec le sucre, sur feu vif. Remuez sans arrêt, faites épaissir environ 5 min.<br/>
+3. Faites fondre le beurre et le chocolat à feu très doux ou au bain-marie.<br/>
+4. Incorporez au fouet le jaune d' oeuf et le sucre, puis ajoutez la farine.<br/>
+5. Fouettez le blanc d' oeuf en neige et ajoutez-le à la pâte sans trop l' écraser.<br/>
+6. Garnissez à demi des ramequins beurrés et répartissez la compotée de cerises au centre puis couvrez de pâte.<br/>
+7. Préchauffez le four à 180°C et faites cuire les moelleux au chocolat au coeur cerise 10 min.<br/>
+
+Astuce : vous pouvez garnir les moelleux d' une cuillerée de confiture du commerce, mais le moelleux sera beaucoup plus sucré.
+
+
+<br/>
+			                     </p>
+                     </Preparation>
+                     <Resume/>
+                     <Photo>http://www.odelices.com/images/recettes/moelleux-au-chocolat-au-coeur-cerise.jpg</Photo>
+                     <Date>2010-10-21</Date>
+                     <Difficulte>Très Facile</Difficulte>
+                     <Ingredients>
+                        <Ingredient>
+                           <Quantite>40 g</Quantite>
+                           <id>ch115</id>
+                           <Nom>Chocolat Noir</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>25 g</Quantite>
+                           <id>BEU1</id>
+                           <Nom>beurre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>25 g</Quantite>
+                           <id>SU2</id>
+                           <Nom>sucre</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>100 g</Quantite>
+                           <id>ce100</id>
+                           <Nom>Cerises</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>1 de gros calibre</Quantite>
+                           <id>O12</id>
+                           <Nom>oeuf</Nom>
+                        </Ingredient>
+                        <Ingredient>
+                           <Quantite>15 g</Quantite>
+                           <id>F120</id>
+                           <Nom>farine</Nom>
+                        </Ingredient>
+                     </Ingredients>
+                  </Recette>
+               </Recettes>
+            </Sous-categorie>
+            <Sous-categorie id="SC15">
+               <Nom>Macarons</Nom>
+               <Description>
+			
+				    Nos recettes de macarons inratables : des parfums classiques au chocolat, vanille, pistache, caramel au beurre salé mais aussi des goûts plus originaux comme pamplemousse, violette, litchi rose. Aussi bons que ceux de Ladurée ou de Pierre Hermé !
+
+			
+		</Description>
+               <Recettes/>
+            </Sous-categorie>
+         </Sous-categories>
+      </Categorie>
+   </Categories>
+   <Ingredients>
+      <Ingredient id="t142">
+         <Produit>
+            <id>P7919</id>
+            <Nom>poissons</Nom>
+         </Produit>
+         <Nom>Thon</Nom>
+         <Apport-nutritif>riche en oméga 3</Apport-nutritif>
+         <Apport-energetique>180 kcal pour100 g</Apport-energetique>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>Ecologie:La pêche du thon rouge est controversée, l'animal étant en voie d'extinction à cause de sa surpêche. La tentative d' en interdire la pêche a échoué en 2010, c'est donc au consommateur de faire preuve de discernement. Le Japon et le thon rouge : 90% du thon rouge pêché serait acheté par les japonais. La bonite, variété de thon, est également très présente dans la cuisine traditionnelle japonaise. Cette présence sur le marché a eu un poids considérable lors de l' echec de l' interdiction de pêche du thon rouge.
+
+</p>
+				           <br/>
+				           <p>
+Les techniques de pêche :
+
+La technique traditionnelle pratiquée en Méditerranée, la madrague, est controversée car on lui reproche de saisir les femelles en période de reproduction. Les thoniers quant-à eux déploient des filets de plusieurs dizaines d'hectares et des équipements industriels couteux pour une pêche dévastatrice. Une pêche plus sélective peut être appliquée : la pêche à la ligne, chaque thon étant appâté à l' unité sur un hameçon plutôt qu'une prise d'ensemble dégradant l'ensemble de l'écosystème. Certaines marques affichent sur leurs emballage la technique de pêche utilisée. Le thon rouge est un poisson prédateur se nourrissant de petits poissons (anchois, sprats, maquereaux). Sa chair est riche en lipides, d'où sa teneur en oméga 3, mais en fait un poisson susceptible de stocker comme le saumon les métaux lourds présents dans les eaux de plus en plus polluées (plomb, mercure..)
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien le choisir :
+
+Son odeurs est plus carnée qu'un autre poisson, mais toujours fraiche. En vous le vendra généralement en darnes (tranches) ou en pavés, il s' oxyde très rapidement une fois coupé. Evitez d'en consommer durant l'été, sa période de frai. Sa couleur varie en fonction de la variété, d' un blanc rosé, gris parfois vers un rouge profond pour le thon rouge.
+
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le conserver :
+
+Consommez le dans les 24h au plus après l' achat. Sinon, congelez le soigneusement emballé et étiqueté. On trouve en magasin différents types de thon surgelés.
+
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le cuisiner :
+
+La cuisson assèche considérablement les chairs, veillez à ne pas trop la prolonger. Il devient facilement fibreux et trop dur. Pour éviter de gâcher du poisson trop cuit, travaillez le en rillettes pour lui redonner du moelleux et de la souplesse. Si vous consommez le thon cru, n' hésitez pas à le congeler 24h avant de le préparer, pour des sushis par exemple. Ainsi, vous neutraliserez des parasites souvent présents dans la chair du poisson. Ces précautions s' appliquent également pour un tartare de thon, le poisson cru est terriblement sensible aux bactéries.
+
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="s36">
+         <Produit>
+            <id>P7919</id>
+            <Nom>poissons</Nom>
+         </Produit>
+         <Nom>saumon</Nom>
+         <Apport-nutritif>riche en oméga 3 (d' autant plus lorsqu' il est consommé cru)</Apport-nutritif>
+         <Apport-energetique>190 kcal pour 100 g</Apport-energetique>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>Ce nom désigne en réalité un grand nombre de poissons de la famille des salmonidés, celle ci incluant également la truite. On estime à plus de 90% le saumon issu de l' élevage contre 10% de saumon sauvage sur le marché. Ce dernier affichant une baisse de population de 75% au cours des 20 dernières années, on ne peut qu' encourager une consommation raisonnée de poisson sauvage.
+Les principales variétés de saumon, le nom latin vous permettrez d' identifier l' espèce qui vous est vendue. Le saumon Royal : Oncorhyncus tshawytscha. C' est l' une des plus grandes variétés de saumon, et l' un des plus recherchées. Sa chair est particulièrement plébiscitée pour le fumage pour sa fermeté et son parfum. Le saumon rouge (Oncorhyncus nerka) et le saumon argenté (Oncorhyncus kisutch) dont la chair est rouge à orangée, ferme et très savoureuse. Le saumon atlantique (salmo salar) : d' un type plus résistant que d' autres saumons, classé en voie de disparition , sa pêche est interdite en France, vous le trouverez donc issu d'élevages. Les saumons Keta et saumon rose sont considérés comme des poissons de qualité inférieur à cause de leur chair friable, terne et peu parfumée. On trouve également des saumons d' eau douce aux nageoires plus grandes adaptée à la nage en eaux vives.
+
+</p>
+				           <br/>
+				           <p>
+Consommation éco-responsable et santé :
+La saumon est un poisson dont l' élevage nécessite une grande quantité de poison sauvage utilisés pour confectionner l' alimentation des poissons d' élevage. On estime à environ 6 kilos de farines de poisson pour nourrir 1 kilo de saumon. La consommation de poisson d' élevages n' est donc pas une solution miracle à la question de la pêche de poissons sauvages. De plus, le saumon est l'un des poissons qui stockerait le plus le mercure présent dans son environnement, celui ci serait donc assimilé directement par votre organisme. Évidemment, il s' agit de faire preuve de mesure et de ne pas s' alimenter exclusivement à partir de saumon. Une contamination aux métaux lourds dans le cadre d' une alimentation variée est très peu probable.
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien le choisir :
+
+Comme pour tous les poissons, choisissez en un qui ne sente que le frais, la mer, et en aucun cas une odeur trop agressive. La peau doit être humide voire encore couverte du mucus naturel du poisson, c' est un signe de grande fraicheur. Les yeux encore ronds et brillants, les écailles petites et fines bien accrochées, les ouies doivent être rouge vif ou foncé, mais non marron. En cas de doute, le poissonnier a l' obligation de vous présenter l' étiquette du colis si vous en faites la demande, la date de pêche sera inscrite dessus et parfois la date limite de consommation, sinon, comptez 8 jours maximum après le conditionnement.
+
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le conserver :
+
+Le saumon frais se conservera deux jours dans la zone la plus froide de votre réfrigérateur. Ce poisson se congèle très bien, vous pouvez congeler vous même vos filets désarretés et emballés individuellement dans du film alimentaire, veillez à étiquetez soigneusement avec la date et le nom du produit.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le cuisiner :
+
+Le saumon est l' un des poissons les plus consommés en France. Découvert cru par le grand public depuis la mode des sushis, il est également très présent dans la culture nordique en gravlaax, fumé, préparé en feuilletés dans le fameux koulibiac russe, il est bien présent dans les différentes gastronomies du globe. La congélation est même un atout pour la consommation crue, elle a le mérite de tuer certains vers parfois (mais rarement) présents dans ce poisson. Il est conseillé de stocker au congélateur durant au minimum 24h les poissons utilisés pour les sushis afin de tuer les parasites potentiels. La congélation ne neutralise cependant pas les bactéries, veillez à ne jamais recongeler un produit décongelé et à l'utiliser ensuite rapidement. Les variétés de saumon Keta et saumon rose dont nous parlions plus haut ne sont pas adaptées à une consommation crue du fait de la texture spongieuse désagréable de leur chair.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="ch115">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>Chocolat Noir</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4385</id>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+            </Recette>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>Mélange de pâte de cacao et de sucre, en proportions précises et légalement définies, auxquels on peut ajouter du beurre de cacao, du lait, du miel, des fruits secs et des aromates.
+</p>
+				           <br/>
+				           <p>
+
+Son origine:
+
+Le mot « chocolat », comme le mot « cacao » dont il est issu, vient du Mexique. Il est composé de tchoco, « bruit » en aztèque, et atle, qui veut dire « eau » : le tchocoatl était la boisson divine des Aztèques, un mélange d' eau et de fèves de cacao, grillées et écrasées, qu' ils remuaient fortement dans de grands bols. Ils y ajoutaient du piment, du miel, du musc, de la cannelle et parfois de la farine de maïs. Les conquistadores importèrent en Europe les premières fèves de cacao, mais, jusqu' au règne de Louis XIV, où apparurent les premières pastilles, le chocolat n' était consommé que sous forme de boisson, réservée à une élite. La première chocolaterie française, la Chocolaterie royale, fut créée en 1776 à Bayonne. Le xixe siècle vit la création des grandes chocolateries industrielles. En 1869, en Suisse, Peter mit au point la recette du chocolat au lait, produit qu' Henri Nestlé perfectionna avec la technique du chocolat fourré.
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Sa fabrication:
+La fabrication du chocolat demande plusieurs jours : le mélange de pâte de cacao et de sucre, additionné de beurre de cacao et parfois de lécithine, est affiné entre des cylindres d' acier. Pendant 24 à 72 heures, on procède ensuite au conchage, brassage intensif de la pâte dans des conches, ou cuves. Puis le chocolat est tempéré, ramené à 28-31 °C, moulé, tapoté afin d' éliminer les bulles d' air, réfrigéré, démoulé et, enfin, emballé.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le choisir :
+Plus un chocolat est riche en cacao, plus il est cher. Outre les différents types de chocolat en tablette, dont la teneur en cacao doit toujours être indiquée sur l'emballage, on trouve des produits dits :
+-« au chocolat » ou « au cacao », soit solides (contenant 35 % au moins de cacao), soit en poudre (32 % de cacao), soit liquides (6 % de cacao)
+- des produits « chocolatés » ou « cacaotés », contenant de 20 à 35 % de pâte ou de poudre de cacao
+- des produits portant la mention « parfum chocolat » ou « cacaoté », contenant tous des quantités inférieures aux taux précédents.
+
+Le chocolat « blanc » est à base de beurre de cacao aromatisé. Dans le chocolat dit « light », une partie du sucre est remplacée par des édulcorants de synthèse ; la quantité de matière grasse est la même.
+Les mentions « parfum chocolat » ou « parfum cacao » s' appliquent à des produits à teneur en cacao inférieure aux précédentes.
+
+Le chocolat entre dans la composition de nombreux bonbons et produits de chocolaterie ou de confiserie : les produits moulés (cloches, oeufs, etc.) ; les tablettes, bâtons ou barres fourrés (fondant, praliné, caramel, etc.) dont la nature du fourrage et la dénomination doivent être clairement indiquées ; au-dessus de 35 % de cacao, il s'agit de « chocolat fourré », en dessous de 25 %, ce sont des produits « enrobés de chocolat ».
+Le chocolat de couverture contient une proportion plus élevée de beurre de cacao, ce qui abaisse son point de fusion. Elle est utilisée en pâtisserie et en confiserie.
+
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le cuisiner :
+
+Le chocolat craint la chaleur. Non seulement il ramollit, mais le gras remontant à la surface, il devient plus ou moins blanc. Il craint tout autant le froid, qui le rend cassant, dur et sec. Il se conserve très bien à une température de 18 °C, dans une boîte hermétique qui le protège de l' humidité. En pâtisserie, le chocolat se prête à de nombreuses préparations : biscuits, crèmes, mousses, gâteaux, glaces, etc. Un carré de chocolat noir dans la sauce d' un civet l' améliore en neutralisant son acidité. Le chocolat entre aussi dans la composition de quelques recettes de la cuisine mexicaine.
+Pour confectionner desserts et pâtisseries à base de chocolat, il est recommandé d' employer des tablettes à teneur élevée de cacao (50 % au minimum).
+
+</p>
+				           <p>
+Sa composition:
+On attribue au chocolat autant de vertus que de défauts.
+Par sa richesse en glucides et en lipides, c' est avant tout un aliment très énergétique sous un petit volume. Il contient de très faibles quantités de caféine (voir Café) et de théobromine (voir Thé), qui sont des toniques, de sérotonine et de phényléthylamine, qui ont des actions anti-stress (comme d' ailleurs les glucides) et des propriétés antidépressives, et enfin des sels minéraux (surtout du magnésium) et des vitamines du groupe B.
+Tout ceci peut expliquer son action tonique sur l' organisme, à condition que l' on en absorbe suffisamment. Mais sa forte teneur en glucides le rend susceptible de provoquer des caries dentaires et il peut déclencher parfois une allergie. Contrairement à certaines idées reçues, il n' est la cause ni de « crise de foie » ni de constipation et ne favorise pas particulièrement l' acné. Sa réputation d' aliment aphrodisiaque, qui date des Aztèques, n'a jamais été vérifiée scientifiquement.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="a117">
+         <Produit>
+            <id>P7909</id>
+            <Nom>viandes</Nom>
+         </Produit>
+         <Nom>Agneau</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2101</id>
+               <Nom>Gigot d'agneau au cumin</Nom>
+            </Recette>
+            <Recette>
+               <id>r497</id>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>L'agneau goûte la laine! Victime de ce préjugé dont on ignore les origines, l'agneau est une viande encore trop boudée au Québec. Mais si l'on se fie au succès grandissant des traiteurs qui organisent et réalisent des méchouis, il est clair que sa cote d'amour est ascendante.
+
+On porte une attention très spéciale à la nourriture et les bêtes sont abattues plus jeunes dans le but d'obtenir une chair irréprochable.
+
+Il n'y a pas que le gigot
+L'agneau est une des meilleures viandes à consommer sur le barbecue, car son goût particulier est très compatible avec la fumée. De plus, comme toutes les parties de la bête sont relativement tendres, nous ne sommes pas limités à consommer que le gigot ou les côtelettes; l'épaule désossée et en cubes marinée et grillée en entier est un délice.
+
+Et que dire des jarrets, mes morceaux préférés!
+Quelle chance nous avons car en plus des côtelettes et du gigot, nous pouvons aujourd'hui acheter séparément des jarrets qui font le bonheur des mordus du couscous. Le truc: démarrer la cuisson de vos jarrets dans un court-bouillon simple (eau, sel, un oignon piqué d'un clou de girofle, une feuille de laurier, quelques grains de poivre, une tige de thym frais, une carotte grossièrement coupée et une gousse d'ail). Après une heure, retirer vos jarrets du court-bouillon et badigeonner de moutarde ou d'une de vos marinades préférées et griller sur le barbecue.
+
+Herbes et épices
+L'ail, la menthe fraîche, la cardamome, le carvi, le curcuma, le cumin, le genièvre, la marjolaine, la moutarde, le romarin, la sauge et le thym sont compatibles et rehaussent merveilleusement l'agneau.
+
+Digne d'un roi
+Pour un barbecue royal, demandez à votre boucher de bien dégraisser des carrés d'agneau et de bien dégager les os. Cette partie de viande étant tendre, une marinade aromatique de quelques minutes à quelques heures est suffisante avant la cuisson.
+
+Marinez les carrés dans une marinade de votre choix, recouvrez les os de papier aluminium pour éviter que ces derniers ne carbonisent et enfin, grillez.
+
+
+			</p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="t120">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>Tomate</Nom>
+         <Apport-nutritif>bêta-carotène, vitamines B9 et C, potassium, phosphore, magnésium, calcium</Apport-nutritif>
+         <Apport-energetique>18 Kcal / 100 g</Apport-energetique>
+         <Saison>juillet à octobre</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>
+				
+				Son orginie :
+				La tomate, découverte au Pérou par Christophe Colomb, fait son entrée en Italie au 16ème siècle. Elle porte le joli nom de « pomme d'or ». Ce n'est qu'au 19ème siècle qu'elle fit son apparition en France. Elle fût d'abord considérée comme vénéneuse puis consommée uniquement cuite. Ce n'est qu'après d'infinis débats qu'elle fût dégustée crue. La tomate est aujourd'hui le fruit le plus consommé.
+
+</p>
+				           <br/>
+				           <p>
+
+Bien la choisir :
+
+La mondialisation nous fait oublier que toutes les tomates ne sont pas bien rondes et lisses. Ils en existent de nombreuses variétés : rondes, ovales, rouges, jaunes, vertes, violettes, tachetées ou non. Choisissez-les bien fermes avec une peau bien tendue et un pédoncule bien vert, ayant une bonne odeur de feuille. En mûrissant, la tomate devient plus fragile.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+
+Les tomates se conservent à température ambiante et non pas au froid, qui risquerait d'altérer les qualités gustatives du fruit. Vous pouvez les garder environ une semaine. Pour les garder plus longtemps, placez-les quelques jours au réfrigérateur pour stopper le mûrissement et sortez-les un jour avant de les consommer.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le cuisiner :
+
+Délicieuses crues, en salade, sorbet ou gaspacho, vous pouvez aussi les cuire pour réaliser une sauce tomate, un risotto, des tomates farcies, des tomates séchées. La peau est souvent enlevée dans les plats en sauce : plongez les tomates 1 min dans une grande casserole d'eau bouillante salée, puis dans un grand saladier d'eau froide, la peau s'enlèvera très facilement. En version sucrée, laissez-vous tentez par de la confiture de tomates.
+
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="e300">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>Endive</Nom>
+         <Apport-nutritif>vitamines C et B ainsi qu'en Potassium</Apport-nutritif>
+         <Apport-energetique>Moins de 20 Kcal pour 100 g</Apport-energetique>
+         <Saison>octobre à mai</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+			L'endive, ou chicon pour les belges, peut se consommer crue ou cuite. Elle présente un petit goût amer, qui l'éloigne parfois de nos cuisines. Un petit conseil, sucrez un peu vos préparations pour estomper l'amertume.
+				<p>
+			Son Origine:	
+			Connue depuis le milieu du 19ème siècle, elle est issue de plants de chicorée forcés à pousser dans l'obscurité. L'endive est composée de feuilles croquantes, blanches à jaune réunies autour d'un tronc cassant et amer. Son nom flamand « Witloof » signifie feuille blanche. Elle a parmi ses cousines la chicorée à café, dont la racine volumineuse est utilisée pour la confection de la boisson du même nom, et des salades telles que la scarole ou la frisée. La choisir : L'endive doit être la plus pâle possible, seules l'extrémité de ses feuilles étant jaune. Une endive mal conservée (à la lumière, trop chaud) deviendra verte et gagnera en amertume. Regardez également la cassure du tronc, elle s'oxyde naturellement en rose mais ne doit pas devenir brune.
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+
+Dans le bac à légumes du réfrigérateur, dans un torchon, il est conseillé de les manger avant une semaine pour éviter qu'elles ne vieillissent. La cuisiner Crue en salade, barquettes apéritives et sandwichs, elle apporte du croquant pour qui aime sa saveur légèrement amère. Elle se marie avec des fromages de type bleu d'Auvergne ou roquefort, des noix et des pommes. Le comté est également particulièrement assorti à ses saveurs et mérite tout particulièrement d'être utilisé dans les versions cuites : en gratins, au jambon, en poêlées de légumes ou encore en veloutés. Pour les gratins, nous vous conseillons de la pré cuire à l'étuvée dans un fond d'eau, jusqu'à pouvoir piquer d'une lame le tronc sans qu'il résiste. Il est ensuite nécessaire de laisser égouttez les endives tête en bas pour extraire l'excédent d'eau, mais elles n'en seront que plus fondantes.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="oi16">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>Oignon</Nom>
+         <Apport-nutritif> Il contient beaucoup de fibres, minéraux et oligo-éléments. Pour ce qui est des vitamines, il est riche en vitamine C, B et E et provitamine A.</Apport-nutritif>
+         <Apport-energetique>34kcal/100g.</Apport-energetique>
+         <Saison>avril à juin</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>L'oignon est une plante herbacée bisannuelle de la famille des liliacées comme l'ail, cultivée depuis longtemps comme une plante potagère pour sa bulbe savoureuse et odorante. C'est à la fois un légume et un condiment précieux qui possède de multiples propriétés médicinales. Les trois variétés les plus connues sont l'oignon blanc (frais) et les oignons rouges/rosés et jaunes (secs), ceux qui font le plus pleurer !
+
+</p>
+				           <br/>
+				           <p>
+Son Origine :
+
+Originaire d'Asie, l'oignon est l'une des racines dont la culture est la plus ancienne. Il remonte à la préhistoire. Il était aussi très apprécié par les Egyptiens. On le retrouve d'ailleurs fréquemment représenté sur leurs tombeaux.
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien le choisir :
+
+Pour un oignon sec (jaune ou rouge), choisissez-le bien ferme, avec des pelures lisses et saines.
+Pour un oignon frais (blanc), choisissez-le avec des feuilles bien vertes.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le conserver :
+
+L'oignon blanc se conserve moins bien, il faut donc le garder au réfrigérateur. L'oignon jaune ou rouge se conserve lui plutôt bien quand il est dans un endroit frais et sec, à l'abri de la lumière.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien le cuisiner :
+
+Légume d'accompagnement par excellence, on le retrouve dans de nombreuses recettes car il sert de base aromatique à de nombreux plats. Il accompagne très bien les viandes et grillades. Il peut également être l'ingrédient principal de vos plats : oignons farcis, tarte ou soupe à l'oignon, omelette à l'oignon
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="ech12">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>Echalotte</Nom>
+         <Apport-nutritif>  Très riche en vitamines C et B, en minéraux et oligo-éléments. Elle contribue efficacement à la couverture ds besoins en potassium, magnésium, fer et zinc.</Apport-nutritif>
+         <Apport-energetique>50 kcal/100g.</Apport-energetique>
+         <Saison>juin à octobre</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>L'échalote est un légume-bulbe (appelé aussi légume-condiment) qui se divise en 7 ou 8 « caïeux » très utilisés dans nos cuisines ! Elle fait partie de la famille des alliacées, la même que l'ail, le poireau, la ciboulette et l'oignon. Parmi les variétés les plus cultivées, on retrouve l'échalote de Jersey (échalote rose) et l'échalote grise très appréciée dans le sud de la France.
+</p>
+				           <br/>
+				           <p>
+Son Origine :
+
+L'échalote serait originaire d'Asie Occidentale. Elle tire son nom du latin « ascolonia cepa », qui signifie « oignon d'Ascalon », en référence à la ville de la Terre Sainte d'où les 1ers croisés ramenèrent la plante. Les Perses et les Egyptiens la considéraient il y a 2000 ans comme une plante sacrée. Ce n'est qu'au Moyen-Âge qu'elle entre dans la gastronomie française et les jardins.
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien la choisir :
+
+Choisissez-la plutôt petite afin qu'elle ait plus de saveur, bien ferme, sans germes ni moisissures.
+Son enveloppe doit être sèche et brillante.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+La conserver surtout à l'abri de la lumière et de la chaleur. Elle se garde plusieurs semaines de cette façon avant que des germes apparaissent. Pelée, elle peut se conserver 3 jours maximum au réfrigérateur dans un récipient hermétique.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la cuisiner :
+
+Depuis longtemps, l'échalote permet l'élaboration de nombreuses sauces très connues comme la béarnaise, la bordelaise, la gribiche ou même la vinaigrette ! On peut la consommer crue ou cuite, souvent hachée, en condiment. Elle est délicieuse sous forme de confiture de chutney. Très savoureuse aussi dans les omelettes, et dans des plats de viandes blanches ou rouges.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="pom06">
+         <Produit>
+            <id>P7924</id>
+            <Nom>Féculents</Nom>
+         </Produit>
+         <Nom>Pommes de terre</Nom>
+         <Apport-nutritif> riche en glucides, potassium, phosphore et vitamines B, et en antyoxydants</Apport-nutritif>
+         <Apport-energetique>120 kcal/100g.</Apport-energetique>
+         <Saison>en janvier, les pommes de terre nouvelles, les pommes de terre se récoltent durant l'hiver pour se stocker toute l_année</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>Tubercule de la famille des solonacées, la pomme de terre, la patate ou truffe selon les régions, fait partie des ingrédients préférés des français. Bien que poussant comme un légume, elle se révèle un féculent à l'index glycémique assez élevé. Sa consommation doit donc être surveillée pour les diabétiques. Elle se consomme exclusivement cuite et peut même se révéler toxique lorsqu'elle est crue ou qu'elle commence à germer excessivement.
+</p>
+				           <br/>
+				           <p>
+Son Histoire :
+
+On trouve trace de variétés primitives de pomme de terre dans les Andes, datant de 8000ans avant J.C. Avec la conquête et la colonisation des Amériques, elle fait son apparition en Europe et ne sera réellement utilisée qu'au 17ème siècle, puis popularisée en France à la fin du 18ème siècle par Antoine Parmentier. Au 19ème siecle, une épidémie de mildiou ravagea la quasi totalité des culture de pomme de terre irlandaise, faisant connaître un épisode de famine au pays tel qu'une vague massive d'immigrant afflua vers les Etats Unis, entre autres. De nos jours, la culture de la pomme de terre n'a plus de secret mais elle est l'un des légumes les plus traités, du fongicide à l'anti-germinatif en passant par une gamme complète de pesticides pour préserver la plante durant sa croissance.
+
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien la choisir :
+
+Elle doit etre ferme, voire dure. Sa peau sans lésions brunatres et sans odeur suspecte, de même qu'elle ne devrait pas monter en germes. Les pommes de terre nouvelles seront choisies à la peau la plus fine possible sans se laisser amadouer par la jolie cagette en bois, en vrac, elles seront aussi bonnes ! Il existe différentes pommes de terre pour différents usages :
+ à chair farineuse, pour soupes/purées/frites (plus riches en amidon)  : Bintje, Agata, Monalisa, Carlita
+à chair ferme, pour salade, pommes sautées : Charlotte, Roseval, Amandine, BF15, Belle de Fontenay
+ les primeurs, récoltées avant maturité et à déguster pour leur finesse : rattes, bonottes
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+Pour des pommes de terre nouvelles, mangez-les le plus vite possible avant qu'elles ne soient plus « nouvelles », pour les pommes de terre de conservation, gardez-les dans un placard à l'abri de la lumière et de la chaleur, sans quoi elles germeront.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la cuisiner :
+
+Il est indispensable de cuire les pommes de terre, quelque soit la technique utilisée. À l'eau : compter 25 à 40 minutes de cuisson selon la taille des pommes de terre. Au four : 1 h au minimum à 180° sautées, 15 minutes environ. Ces temps de cuisson ne sont qu'indicatifs, et varient en fonction du type de pomme de terre. Une seule technique est fiable : piquer pour voir si elle fond ou si elle croque. Les pommes de terre nouvelles ne nécessitent pas d'être épluchées. Si vraiment la peau vous gène, frottez les dans du gros sel, enveloppées dans un torchon.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="B10">
+         <Produit>
+            <id>P10274</id>
+            <Nom>Fromages</Nom>
+         </Produit>
+         <Nom>boules de mozzarella de bufflone</Nom>
+         <Apport-nutritif>100 Cal/7 g de protéines</Apport-nutritif>
+         <Apport-energetique>calcium 580 mg pour 100g</Apport-energetique>
+         <Saison>mai à septembre</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4275</id>
+               <Nom>Mozzarella panée</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p> 
+			D'origine italienne, la Mozzarella est le fromage le plus consommé au monde. 
+			Utilisé surtout dans les pizzas, le goût n'est pas toujours au rendez-vous. 
+			Pourtant, quoi de meilleur qu'une boule de mozzarella di Bufala en salade, 
+			seulement agrémentée d'huile d'olive et de basilic ? De vache ou de bufflonne,
+			la mozzarella se cuisine très facilement.<br/>
+				           <p> Elle est synonyme de fraîcheur et légèreté quand elle est de qualité. 
+			Fromage phare de l'été, la mozzarella séduit nos papilles en quête de saveurs étrangères, elle représente bien la Dolce Vita italienne, 
+			douce et raffinée.</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="S12">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>sel</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r3289</id>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+            </Recette>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+            <Recette>
+               <id>r2101</id>
+               <Nom>Gigot d'agneau au cumin</Nom>
+            </Recette>
+            <Recette>
+               <id>r497</id>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="SU2">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>sucre</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="SO7">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>sauce soja</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="V10">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>vin blanc</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="G63">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>gingembre</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="VI2">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>vinaigre blanc</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1611</id>
+               <Nom>Saumon teriyaki</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="BEU1">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>beurre</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+            <Recette>
+               <id>r2101</id>
+               <Nom>Gigot d'agneau au cumin</Nom>
+            </Recette>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="Po40">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>poivre</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r3289</id>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+            </Recette>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+            <Recette>
+               <id>r2101</id>
+               <Nom>Gigot d'agneau au cumin</Nom>
+            </Recette>
+            <Recette>
+               <id>r497</id>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="CH12">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>chapelure</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4275</id>
+               <Nom>Mozzarella panée</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="M80">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>moutarde</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+            <Recette>
+               <id>r497</id>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="C50">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>crème</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3289</id>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+            </Recette>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+            <Recette>
+               <id>r4385</id>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="Co30">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>cornichons</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="CA9">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>cacao</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4385</id>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="M9">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>marrons</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3289</id>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="M110">
+         <Produit>
+            <id>P7904</id>
+            <Nom>Fruits</Nom>
+         </Produit>
+         <Nom>myrtilles</Nom>
+         <Apport-nutritif>57,7 kcal/100 g</Apport-nutritif>
+         <Apport-energetique>protéines 0,91 g pour 100 g</Apport-energetique>
+         <Saison>juin à aout</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p> 
+			La myrtille est un petit fruit rond, de couleur bleuâtre à noire, avec de nombreuses graines 
+			</p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="B200">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>bicarbonate de sodium</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="L300">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>levure chimique</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="L50">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>lait</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="O12">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>oeuf</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+            <Recette>
+               <id>r4275</id>
+               <Nom>Mozzarella panée</Nom>
+            </Recette>
+            <Recette>
+               <id>r3289</id>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+            </Recette>
+            <Recette>
+               <id>r4385</id>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+            </Recette>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="H20">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>huile d'olive</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+            <Recette>
+               <id>r497</id>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+            </Recette>
+            <Recette>
+               <id>r4385</id>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="F120">
+         <Produit>
+            <id>P7927</id>
+            <Nom>Autres</Nom>
+         </Produit>
+         <Nom>farine</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+            <Recette>
+               <id>r4275</id>
+               <Nom>Mozzarella panée</Nom>
+            </Recette>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="F10">
+         <Produit>
+            <id>P10274</id>
+            <Nom>Fromages</Nom>
+         </Produit>
+         <Nom>fromage de brebis</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2830</id>
+               <Nom>Cake à la tomate farcie</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="FC20">
+         <Produit>
+            <id>P10274</id>
+            <Nom>Fromages</Nom>
+         </Produit>
+         <Nom>fromage de chèvre</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r3136</id>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="CE5">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>céleri</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="G15">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>girolles</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1915</id>
+               <Nom>Pavé de saumon aux girolles</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="CI10">
+         <Produit>
+            <id>P7914</id>
+            <Nom>legumes</Nom>
+         </Produit>
+         <Nom>ciboulette</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r4315</id>
+               <Nom>Endives farcies au thon</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="MO7">
+         <Produit>
+            <id>P7919</id>
+            <Nom>poissons</Nom>
+         </Produit>
+         <Nom>moules</Nom>
+         <Apport-nutritif/>
+         <Apport-energetique/>
+         <Saison/>
+         <Recettes-contenant>
+            <Recette>
+               <id>r1241</id>
+               <Nom>Moules et frites</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif/>
+      </Ingredient>
+      <Ingredient id="ce100">
+         <Produit>
+            <id>P7904</id>
+            <Nom>Fruits</Nom>
+         </Produit>
+         <Nom>Cerises</Nom>
+         <Apport-nutritif>68 kcal / 100 g.</Apport-nutritif>
+         <Apport-energetique>béta-carotènes (anti-oxydants), vitamines B9, potassium</Apport-energetique>
+         <Saison>mai à juillet</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r2678</id>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>
+Son Origine :
+
+Fruit de la famille des rosacées. Les romains apportèrent des plants de cerisier d'Asie Mineure en Europe au début de notre ère. Ils s'apparentaient probablement aux merises que nous connaissons : de petits grappes de cerises très foncée, couvertes de peu de chair et à la peau fragile.
+Elle est cultivée et commercialisée depuis le Moyen Age tant pour le bois de l'arbre que pour ses fruits, mais c'est sous le règne de Louis XV qu'elle sera réellement sélectionnée et cultivée de façon intensive, afin de satisfaire la demande royale.
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien la choisir :
+
+La cerise, quelque soit sa taille doit avoir la peau tendue. Certaines variétés sont naturellement jaunes, craquelées ou plus molles que d'autres, il est impératif de gouter pour en vérifier la qualité. La tige doit être verte et fraiche. Marron ou racornie, elle est signe d'un fruit cueilli il y a déjà trop longtemps. Certaines variétés de cerises (griotte, amarelles) sont acides et doivent être cuisinées ou placées en bocaux pour être consommées.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+Quatre jours dans un endroit frais, mais évitez le réfrigérateur si possible, car il altère leur arôme. Conservez sinon au congélateur, dénoyautées, ou en bocaux au sirop ou à l'alcool. On trouve également des cerises confites mais elles perdent généralement tout leur arôme.
+
+</p>
+				           <br/>
+				           <p>
+Bien la cuisiner :
+
+Retrouvez la cerises dans le célèbre clafoutis du Limousin (avec ou sans les noyaux,à vous de choisir) mais aussi en gâteaux, smoothies, cuite avec du canard, poêlée avec du miel pour accompagner du fromage. On la retrouve dans certaines régions sous forme de liqueur (Kirsh, guignolet) ou simplement conservée dans de l'alcool pour fruits.
+
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+      <Ingredient id="fr12">
+         <Produit>
+            <id>P7904</id>
+            <Nom>Fruits</Nom>
+         </Produit>
+         <Nom>Framboise</Nom>
+         <Apport-nutritif>49 kcal / 100 g</Apport-nutritif>
+         <Apport-energetique>vitamines B9 et C, potassium, magnésium, phosphore, calcium</Apport-energetique>
+         <Saison>mai à août</Saison>
+         <Recettes-contenant>
+            <Recette>
+               <id>r957</id>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+            </Recette>
+         </Recettes-contenant>
+         <Descriptif>
+            <p>
+				           <p>
+Son Origine :
+
+Fruit du framboisier, ronce sauvage des sous-bois montagneux. La culture de ce fruit remonte au Moyen Âge, mais elle fut améliorée au XVIIIe siècle et ne se développa réellement qu'au XXe siècle.
+De forme ovoïde ou conique, assez petite, d'un rouge plus ou moins foncé bien qu'il existe des variétés jaunes -, la framboise est sucrée, un peu acide et très parfumée. Elle est maintenant produite, en pleine terre ou sous abri, dans le Val de Loire, le Limousin, l'Île-de-France et toute la région Rhône-Alpes.
+
+<br/>
+				           </p>
+				           <br/>
+				           <p>
+Bien la choisir :
+
+Les framboises du printemps sont cultivées sous serre. Il faudra attendre le mois de juin pour voir apparaître sur le marché des fruits cultivés en pleine terre, bien plus sucrés : les variétés non remontantes, de mi-juin à mi-juillet (meeker, glen moy, mailing promise) puis les variétés remontantes, de mi-juillet à octobre (héritage, lloyd george, hybrides). La framboise est un fruit fragile, toujours vendu en barquettes. Elle doit être bien charnue, non moisie, sèche et fraîche au toucher.
+
+
+</p>
+				           <br/>
+				           <p>
+Bien la conserver :
+La framboise est à consommer rapidement après l'achat ou la cueillette car elle se conserve très mal. Elle ne se lave pas et s'équeute avec précaution. Les framboises se congèlent très bien, mais, une fois décongelées, elles sont ramollies et peu présentables. Il faut les réserver plutôt à la préparation de mousses, de coulis, de bavarois, etc.
+</p>
+				           <br/>
+				           <p>
+Bien la cuisiner :
+
+Rien n'est meilleur qu'un petit bol de framboises fraîches. Si besoin, ajoutez un peu de sucre ou de crème fraîche. Déposez des framboises entières sur un fond de tarte, une mousse au chocolat ou un entremet. Faites-en aussi des compotes, des crèmes, des sorbets ou des confitures. Ajoutées dans un gâteau, elles apporteront beaucoup de moelleux. Elles se conservent au sirop, à l'eau-de-vie ou au naturel.
+
+</p>
+			         </p>
+         </Descriptif>
+      </Ingredient>
+   </Ingredients>
+   <Auteurs>
+      <Auteur id="AUT1">
+         <Nom>Marie-Laure Tombini</Nom>
+         <Pays>France</Pays>
+         <Sexe>Femme</Sexe>
+         <Biographie>Auteur et photographe culinaire, Marie-Laure Tombini a créé en 2002 le site Ô Délices pour partager ses recettes et idées avec vous. Elle travaille en collaboration avec Vanessa Romano, Margot Debouzy depuis 2008. </Biographie>
+         <Recettes-partagees>
+            <Recette>
+               <Nom>Mozzarella panée</Nom>
+               <id>r4275</id>
+            </Recette>
+            <Recette>
+               <Nom>Oeuf cocotte aux marrons</Nom>
+               <id>r3289</id>
+            </Recette>
+            <Recette>
+               <Nom>Endives farcies au thon</Nom>
+               <id>r4315</id>
+            </Recette>
+            <Recette>
+               <Nom>Gigot d'agneau au cumin</Nom>
+               <id>r2101</id>
+            </Recette>
+            <Recette>
+               <Nom>Saumon teriyaki</Nom>
+               <id>r1611</id>
+            </Recette>
+            <Recette>
+               <Nom>Pavé de saumon aux girolles</Nom>
+               <id>r1915</id>
+            </Recette>
+            <Recette>
+               <Nom>Moelleux au chocolat noir et à l'huile d'olive</Nom>
+               <id>r4385</id>
+            </Recette>
+            <Recette>
+               <Nom>Moelleux au chocolat, coeur fondant aux framboises</Nom>
+               <id>r957</id>
+            </Recette>
+            <Recette>
+               <Nom>Moelleux au chocolat au coeur cerise</Nom>
+               <id>r2678</id>
+            </Recette>
+         </Recettes-partagees>
+      </Auteur>
+      <Auteur id="AUT2">
+         <Nom>Vanessa</Nom>
+         <Pays>France</Pays>
+         <Sexe>Homme</Sexe>
+         <Biographie/>
+         <Recettes-partagees>
+            <Recette>
+               <Nom>Petits cakes au chèvre frais et myrtilles</Nom>
+               <id>r3136</id>
+            </Recette>
+         </Recettes-partagees>
+      </Auteur>
+      <Auteur id="AUT3">
+         <Nom>Nadège</Nom>
+         <Pays>France</Pays>
+         <Sexe>Femme</Sexe>
+         <Biographie/>
+         <Recettes-partagees>
+            <Recette>
+               <Nom>Cake à la tomate farcie</Nom>
+               <id>r2830</id>
+            </Recette>
+         </Recettes-partagees>
+      </Auteur>
+      <Auteur id="AUT4">
+         <Nom>Karine Descamps</Nom>
+         <Pays>France</Pays>
+         <Sexe>Femme</Sexe>
+         <Biographie>Auteur à succès, Karine Descamps a publié 2 superbes livres aux éditions Mango : Craquez pour la cuisine des ch'tis ! et Craquez pour la noix de coco ! </Biographie>
+         <Recettes-partagees>
+            <Recette>
+               <Nom>Moules et frites</Nom>
+               <id>r1241</id>
+            </Recette>
+         </Recettes-partagees>
+      </Auteur>
+      <Auteur id="AUT5">
+         <Nom>Clochette</Nom>
+         <Pays>France</Pays>
+         <Sexe>Femme</Sexe>
+         <Biographie/>
+         <Recettes-partagees>
+            <Recette>
+               <Nom>Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</Nom>
+               <id>r497</id>
+            </Recette>
+         </Recettes-partagees>
+      </Auteur>
+   </Auteurs>
+   <Produits>
+      <Produit id="P7904">
+         <Nom>Fruits</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>ce100</id>
+               <Nom>Cerises</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>fr12</id>
+               <Nom>Framboise</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>M110</id>
+               <Nom>myrtilles</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P7914">
+         <Nom>legumes</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>e300</id>
+               <Nom>Endive</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>oi16</id>
+               <Nom>Oignon</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>ech12</id>
+               <Nom>Echalotte</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>t120</id>
+               <Nom>Tomate</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>CE5</id>
+               <Nom>céleri</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>CI10</id>
+               <Nom>ciboulette</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>G15</id>
+               <Nom>girolles</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P7909">
+         <Nom>viandes</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>a117</id>
+               <Nom>Agneau</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P7919">
+         <Nom>poissons</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>t142</id>
+               <Nom>Thon</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>s36</id>
+               <Nom>saumon</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>MO7</id>
+               <Nom>moules</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P7924">
+         <Nom>Féculents</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>pom06</id>
+               <Nom>Pommes de terre</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P10274">
+         <Nom>Fromages</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>B10</id>
+               <Nom>boules de mozzarella de bufflone</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>F10</id>
+               <Nom>fromage de brebis</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>FC20</id>
+               <Nom>fromage de chèvre</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+      <Produit id="P7927">
+         <Nom>Autres</Nom>
+         <Ingredients>
+            <Ingredient>
+               <id>ch115</id>
+               <Nom>Chocolat Noir</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>B200</id>
+               <Nom>bicarbonate de sodium</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>F120</id>
+               <Nom>farine</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>L300</id>
+               <Nom>levure chimique</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>L50</id>
+               <Nom>lait</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>O12</id>
+               <Nom>oeuf</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>H20</id>
+               <Nom>huile d'olive</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>S12</id>
+               <Nom>sel</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>Po40</id>
+               <Nom>poivre</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>CH12</id>
+               <Nom>chapelure</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>M9</id>
+               <Nom>marrons</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>C50</id>
+               <Nom>crème</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>Co30</id>
+               <Nom>cornichons</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>M80</id>
+               <Nom>moutarde</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>BEU1</id>
+               <Nom>beurre</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>SU2</id>
+               <Nom>sucre</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>SO7</id>
+               <Nom>sauce soja</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>V10</id>
+               <Nom>vin blanc</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>VI2</id>
+               <Nom>vinaigre blanc</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>G63</id>
+               <Nom>gingembre</Nom>
+            </Ingredient>
+            <Ingredient>
+               <id>CA9</id>
+               <Nom>cacao</Nom>
+            </Ingredient>
+         </Ingredients>
+      </Produit>
+   </Produits>
+</App>

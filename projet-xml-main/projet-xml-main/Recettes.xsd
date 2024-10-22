@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="App">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Categorie"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Categorie">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Nom"/>
+                <xs:element ref="Description"/>
+                <xs:element ref="Sous-categorie"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Sous-categorie">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Nom"/>
+                <xs:element ref="Description"/>
+                <xs:element ref="Recettes"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Recettes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Recette"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Recette">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Auteur"/>
+                <xs:element ref="Titre"/>
+                <xs:element ref="Resume"/>
+                <xs:element ref="Photo"/>
+                <xs:element ref="Date"/>
+                <xs:element ref="Difficulte"/>
+                <xs:element ref="Ingredients"/>
+                <xs:element ref="Nombre-de-personnes"/>
+                <xs:element ref="Preparation"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:NCName"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Auteur">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Nom"/>
+                <xs:element ref="ref-Recette"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-Recette">
+        <xs:complexType>
+            <xs:attribute name="ref" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Titre" type="xs:string"/>
+    <xs:element name="Resume" type="xs:string"/>
+    <xs:element name="Photo" type="xs:string"/>
+    <xs:element name="Date" type="xs:string"/>
+    <xs:element name="Difficulte" type="xs:string"/>
+    <xs:element name="Ingredients">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Ingredient"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Ingredient">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Produit"/>
+                <xs:element ref="Quantite"/>
+                <xs:element ref="Nom"/>
+                <xs:element ref="Apport-nutritif"/>
+                <xs:element ref="Apport-energetique"/>
+                <xs:element ref="Saison"/>
+                <xs:element ref="Descriptif"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Produit">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Nom"/>
+            </xs:sequence>
+            <xs:attribute name="maxOccurs" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Quantite" type="xs:integer"/>
+    <xs:element name="Apport-nutritif" type="xs:string"/>
+    <xs:element name="Apport-energetique" type="xs:string"/>
+    <xs:element name="Saison" type="xs:string"/>
+    <xs:element name="Descriptif" type="xs:string"/>
+    <xs:element name="Nombre-de-personnes" type="xs:integer"/>
+    <xs:element name="Preparation">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Temps-de-preparation"/>
+                <xs:element ref="Temps-de-cuisson"/>
+                <xs:element ref="Temps-de-repos"/>
+                <xs:element ref="Description"/>
+                <xs:element ref="Note"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Temps-de-preparation" type="xs:string"/>
+    <xs:element name="Temps-de-cuisson" type="xs:integer"/>
+    <xs:element name="Temps-de-repos">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="Note">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="Nom" type="xs:string"/>
+    <xs:element name="Description" type="xs:string"/>
+</xs:schema>

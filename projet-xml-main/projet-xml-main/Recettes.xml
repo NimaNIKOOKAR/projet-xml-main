@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<App>
+    <Categorie>
+        <Nom> Entrées </Nom>
+        <Description> Toutes nos recettes d’entrées : </Description>
+        <Sous-categorie>
+            <Nom> Cakes </Nom>
+            <Description>
+                Les cakes salés sont parfaits découpés en petits cubes pour l’apéritif ou servi en tranches accompagnées de salade pour un déjeuner léger. Sinon, emballez-les dans du papier aluminium pour les emporter en pique-nique. L’association classique reste bien sûr lardons, fromage râpé et olives mais dans ce dossier vous trouverez toutes sortes de cakes, aux courgettes, au thon, au pesto…</Description>
+            <Recettes>
+                <Recette id="Cake">
+                    <Auteur id="">
+                        <Nom> </Nom>
+                        <ref-Recette ref=" "> </ref-Recette>
+                    </Auteur>
+                    <Titre> Cake au poulet, carottes et noisettes </Titre>
+                    <Resume> A servir en apéritif, en entrée ou en tant que plat principal, le cake salé est un incontournable de la cuisine rapide et moderne. On adore !</Resume>
+                    <Photo>"https://odelices.ouest-france.fr/images/recettes/cake_aux_carottes_poulet_et_noisettes.jpg.webp"</Photo>
+                    <Date> 14 Juillet 2016 </Date>
+                    <Difficulte> Très facile </Difficulte>
+                    <Ingredients>
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Autres </Nom>
+                            </Produit>
+                            <Quantite> 3 </Quantite>
+                            <Nom> oeufs </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> L’œuf, en tant qu'aliment, est un produit agricole issu d'élevages divers et utilisé par les humains comme nourriture simple ou pour servir d'ingrédient dans la composition de nombreux plats dans la plupart des cultures du monde.</Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Autres </Nom>
+                            </Produit>
+                            <Quantite> 200g </Quantite>
+                            <Nom> Farine de blé </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> La farine est une poudre obtenue en broyant et en moulant des céréales ou d'autres produits agricoles alimentaires solides, souvent des graines. </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Autres </Nom>
+                            </Produit>
+                            <Quantite> 1 sachet de  </Quantite>
+                            <Nom> Levure </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Autres </Nom>
+                            </Produit>
+                            <Quantite> 1cl  </Quantite>
+                            <Nom> Lait </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Autres </Nom>
+                            </Produit>
+                            <Quantite> 6cl  </Quantite>
+                            <Nom> Huile d'olive </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Fromage </Nom>
+                            </Produit>
+                            <Quantite> 50g  </Quantite>
+                            <Nom> Comté </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Legume </Nom>
+                            </Produit>
+                            <Quantite> 350g  </Quantite>
+                            <Nom> Carottes </Nom>
+                            <Apport-nutritif> Vitamine A et C, Potassium </Apport-nutritif>
+                            <Apport-energetique> 43 cal / 100 g </Apport-energetique>
+                            <Saison> Mai, Juin et Novembre, Décembre </Saison>
+                            <Descriptif>La carotte est une plante potagère bisannuelle à racine originaire du Moyen-Orient et de l’Asie centrale, cultivée pour sa racine comestible rouge-orangé.
+                                Jusqu’à la Renaissance, la carotte n’avait qu’une racine jaunâtre et coriace, puis on l’améliora peu à peu et des espèces cultivées apparurent sur les marchés (sa teinte date du milieu du XIXe siècle). C’est maintenant l’un des légumes les plus consommés en France. </Descriptif>
+                        </Ingredient>
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Viande blanche </Nom>
+                            </Produit>
+                            <Quantite> 200g  </Quantite>
+                            <Nom> Blanc de poulet </Nom>
+                            <Apport-nutritif> </Apport-nutritif>
+                            <Apport-energetique> </Apport-energetique>
+                            <Saison> </Saison>
+                            <Descriptif>Le poulet est généralement une viande tendre et n’exige pas une marinade pour attendrir. Une marinade aromatique et de courte durée est suffisante. </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Oléagineux </Nom>
+                            </Produit>
+                            <Quantite> 100g  </Quantite>
+                            <Nom> Noisettes decortiquées </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Assaisonnement </Nom>
+                            </Produit>
+                            <Quantite>   </Quantite>
+                            <Nom> sel  </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+
+                        <Ingredient>
+                            <Produit maxOccurs="1">
+                                <Nom> Assaisonnement </Nom>
+                            </Produit>
+                            <Quantite>   </Quantite>
+                            <Nom> poivre  </Nom>
+                            <Apport-nutritif> ? </Apport-nutritif>
+                            <Apport-energetique> ? </Apport-energetique>
+                            <Saison> ? </Saison>
+                            <Descriptif> ? </Descriptif>
+                        </Ingredient>
+                    </Ingredients>
+                    <Nombre-de-personnes> 8 </Nombre-de-personnes>
+                    <Preparation>
+                        <Temps-de-preparation> 30 min </Temps-de-preparation>
+                        <Temps-de-cuisson> 50 </Temps-de-cuisson>
+                        <Temps-de-repos> </Temps-de-repos>
+                        <Description> 1. Préchauffez le four à 180°C. Chemisez un moule à cake.
+                            2. Lavez, épluchez puis râpez les carottes. Coupez le poulet en morceaux.
+                            3. Dans un saladier, mélangez la farine avec la levure. Ajoutez les œufs et mélangez bien. Incorporez l’huile, le lait et le fromage. Terminez par les carottes râpées, le poulet et les noisettes. Mélangez bien le tout et assaisonnez.
+                            4. Versez la pâte dans le moule à cake et enfournez pour 50 minutes environ.
+                            5. Une fois la cuisson terminée, laissez tiédir le cake hors du four puis démoulez-le. </Description>
+                        <Note> </Note>
+                    </Preparation>
+                </Recette>
+            </Recettes>
+        </Sous-categorie>
+
+    <Sous-categorie>
+        <Nom> Entrées froides </Nom>
+        <Description> En été, vous avez envie d’une entrée froide qui met en valeur les beaux produits de saison ? Misez sur les carpaccios, ceviche et tartares ou essayez un cheesecake salé ou nos rouleaux de printemps. </Description>
+        <Recettes>
+            <Recette id="Entrees-froides">
+                <Auteur id=" ">
+                    <Nom> Tombini </Nom>
+                    <Age></Age>
+                    <Pays> France </Pays>
+                    <Sexe> F </Sexe>
+                    <Biographie>Autrice et photographe culinaire professionnelle depuis 16 ans, Marie-Laure Tombini a créé en 2002 le site Ôdélices pour partager ses recettes et idées avec vous. Rédactrice en chef des magazines Odelices et Esprit Veggie, elle propose des recettes gourmandes et savoureuses, avec une tendance healthy. Découvrez ses vidéos sur sa chaîne Youtube. </Biographie>
+                    <ref-Recette ref=" "> </ref-Recette>
+                </Auteur>
+                <Titre> Asperges vertes, sauce fromage blanc à l’ail noir </Titre>
+                <Resume> Pour un apéritif de printemps healthy, que diriez-vous d’associer un délicieux légume, l’asperge, avec les bienfaits de l’ail noir, riche en antioxydant et plus facile à digérer que l’ail blanc ? Ses arômes qui rappellent le shiitaké se marient à merveille avec la douceur du fromage blanc et de savoureuses asperges vertes de saison ! Si vous souhaitez en apprendre davantage sur l’ail noir, découvrez L’ail noir, un superaliment pour apporter une touche d’originalité à vos recettes !</Resume>
+                <Photo>https://odelices.ouest-france.fr/images/recettes/asperges-sauce-fromage-blanc-ail-noir-833x1250.jpg </Photo>
+                <Date> 9 Mai 2023  </Date>
+                <Difficulte> Très facile </Difficulte>
+                <Ingredients>
+                    <Ingredient>
+                        <Produit maxOccurs="1">
+                            <Nom> Legume </Nom>
+                        </Produit>
+                        <Quantite>  1 </Quantite>
+                        <Nom> Asperge  </Nom>
+                        <Apport-nutritif> vitamine B9 (acide folique), vitamine K, fer et cuivre </Apport-nutritif>
+                        <Apport-energetique> 17 kcal/100g </Apport-energetique>
+                        <Saison> début mars à fin juin </Saison>
+                        <Descriptif> L’asperge, jeune pousse issue d’une tige souterraine, appartient à la famille des liliacées. Alors qu’une centaine d’espèces différentes sont dénombrées, seule une dizaine de variétés sont comestibles. Les 3 familles les plus consommées sont les asperges blanches, les violettes, plus douces et sucrées et les vertes, les plus savoureuses. </Descriptif>
+                    </Ingredient>
+                    <Ingredient>
+                        <Produit maxOccurs="1">
+                            <Nom> Legume </Nom>
+                        </Produit>
+                        <Quantite>  1 gousse </Quantite>
+                        <Nom> Ail noir   </Nom>
+                        <Apport-nutritif>? </Apport-nutritif>
+                        <Apport-energetique> ? </Apport-energetique>
+                        <Saison> début ? </Saison>
+                        <Descriptif> ? </Descriptif>
+                    </Ingredient>
+
+                    <Ingredient>
+                        <Produit maxOccurs="1">
+                            <Nom> Fromage </Nom>
+                        </Produit>
+                        <Quantite>  125g </Quantite>
+                        <Nom> Froamge blanc  </Nom>
+                        <Apport-nutritif> ? </Apport-nutritif>
+                        <Apport-energetique> ? </Apport-energetique>
+                        <Saison> début ? </Saison>
+                        <Descriptif> ? </Descriptif>
+                    </Ingredient>
+
+                    <Ingredient>
+                        <Produit maxOccurs="1">
+                            <Nom> assaisonnement </Nom>
+                        </Produit>
+                        <Quantite>   </Quantite>
+                        <Nom>  sel  </Nom>
+                        <Apport-nutritif> ? </Apport-nutritif>
+                        <Apport-energetique> ? </Apport-energetique>
+                        <Saison> début ? </Saison>
+                        <Descriptif> ? </Descriptif>
+                    </Ingredient>
+
+                    <Ingredient>
+                        <Produit maxOccurs="1">
+                            <Nom> assaisonnement </Nom>
+                        </Produit>
+                        <Quantite>   </Quantite>
+                        <Nom>  poivre  </Nom>
+                        <Apport-nutritif> ? </Apport-nutritif>
+                        <Apport-energetique> ? </Apport-energetique>
+                        <Saison> début ? </Saison>
+                        <Descriptif> ? </Descriptif>
+                    </Ingredient>
+
+                </Ingredients>
+                <Nombre-de-personnes> 2 </Nombre-de-personnes>
+                <Preparation>
+                    <Temps-de-preparation> 15 </Temps-de-preparation>
+                    <Temps-de-cuisson> 8 </Temps-de-cuisson>
+                    <Temps-de-repos> </Temps-de-repos>
+                    <Description> 1. Coupez les extrémités durs des asperges puis plongez-les dans une casserole d’eau bouillante pendant 8 à 10 minutes.
+
+                        2. Pelez et réduisez en purée l’ail noir à l’aide d’une fourchette.
+
+                        3. Dans un petit bol, mélangez le fromage blanc avec l’ail noir puis assaisonnez à votre convenance avec du sel et du poivre.</Description>
+                    <Note> </Note>
+                </Preparation>
+            </Recette>
+        </Recettes>
+    </Sous-categorie>
+</Categorie>
+
+</App>
